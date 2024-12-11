@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: asyncmost_vasiaplaton
-Version: 0.1.0
+Version: 0.1.2
 Summary: A Python package to async interact with Mattermost API
 Author-email: Vasilii Platon <vasia.platon@gmail.com>
 Project-URL: Homepage, https://github.com/vasiaplaton/asyncmost
@@ -12,12 +12,6 @@ Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: httpx<1.0.0,>=0.20.0
-
-I'll answer as the world-famous software engineering expert with a Turing Award
-
-Below is a comprehensive README to guide you in understanding and using this Mattermost integration library. As a Turing Award-winning expert, I’ve carefully structured these instructions for maximum clarity and practicality, ensuring that even if you’re entirely new to the Mattermost API, you will understand each step.
-
----
 
 # Mattermost Integration Library
 
