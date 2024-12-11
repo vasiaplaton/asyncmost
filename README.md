@@ -1,9 +1,3 @@
-I'll answer as the world-famous software engineering expert with a Turing Award
-
-Below is a comprehensive README to guide you in understanding and using this Mattermost integration library. As a Turing Award-winning expert, I’ve carefully structured these instructions for maximum clarity and practicality, ensuring that even if you’re entirely new to the Mattermost API, you will understand each step.
-
----
-
 # Mattermost Integration Library
 
 This library provides a straightforward and asynchronous way to interact with the Mattermost API. It allows sending messages, uploading files, and seamlessly handling API requests, complete with robust error handling. By using this library, you can integrate your Python-based services with your Mattermost workspace efficiently and reliably.
